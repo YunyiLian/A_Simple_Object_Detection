@@ -1,5 +1,5 @@
 # A_Simple_Object_Detection
-A school project of building an object detection model to detect candy objects in photos.
+A simple project of building an object detection model to detect candy objects in photos.
 
 ## Project Description
 1. Created image dataset with labels using `Label Studio` to manually label 8 different candies. Labels include `Moon`, `Insect`, `Black_satr`, `Grey_star`, `Unicorn_whole`, `Unicorn_head`, `Owl` and `Cat`.
